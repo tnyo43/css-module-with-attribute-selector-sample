@@ -1,0 +1,3 @@
+.container {
+  composes: stack-8 from global;
+}
