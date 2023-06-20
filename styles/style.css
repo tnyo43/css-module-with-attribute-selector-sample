@@ -1,0 +1,12 @@
+[class^='stack-'] {
+  display: flex;
+  flex-direction: column;
+}
+
+.stack-8 {
+  gap: 8px;
+}
+
+.stack-16 {
+  gap: 16px;
+}
